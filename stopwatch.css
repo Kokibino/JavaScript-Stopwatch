@@ -1,0 +1,44 @@
+body {
+  height: 100px;
+  }
+  .wrapper {
+    width: 600px;
+    height: auto;
+    margin: 30px auto;
+    color:darkslategray;
+    text-align:center;
+    border: solid 2px black;
+    box-shadow: 10px 10px darkslategrey;
+    }
+  
+
+    h1, h2, h3 {
+      font-family: monospace;
+      font-weight: 100;
+      font-size: 2.5em;
+      text-transform: uppercase;
+    }
+    
+    #seconds, #tens{
+      font-size:2em;
+    }
+    
+    button{
+    text-decoration:none;
+    cursor:pointer;
+    font-size:1.2em;
+    padding:18px 10px;
+    width:180px;
+    margin: 10px;
+    box-shadow: 4px 4px darkslategrey;
+    }
+    
+    ul{
+        list-style: none;
+      }
+      
+    
+
+   
+   
+    
